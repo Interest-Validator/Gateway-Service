@@ -1,5 +1,12 @@
 # IV Gateway Service
 
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2F%2FInterest-Validator%2FGateway-Service%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev//Interest-Validator/Gateway-Service/goto?ref=main)
+![GitHub](https://img.shields.io/github/license/Interest-Validator/Gateway-Service)
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/Interest-Validator/Gateway-Service/main)
+![GitHub issues](https://img.shields.io/github/issues/Interest-Validator/Gateway-Service)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Interest-Validator/Gateway-Service)
+![GitHub Release Date](https://img.shields.io/github/release-date/Interest-Validator/Gateway-Service)
+
 NestJS API Gateway for handling the data.
 
 ## Installation
